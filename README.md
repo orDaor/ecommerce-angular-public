@@ -1,4 +1,4 @@
-## Try this Videogames Ecommerce Demo [<ins>Here</ins>](https://ecommerce-demo.lullabydevhub.com/)!
+## Features
 
 **Responsive** Ecommerce website - Navigate between product pages and add the games you wish to buy to your **cart**. 
 To buy the products in **test** mode first create an **account**, perform the login and then place the **order**.
@@ -6,8 +6,6 @@ Users can also **manage** their **cart**, by updating items quantity and deletin
 A **Pagination** strategy was developed to navigate among different product pages.
 The admin of the shop is able to add new products, modify the existing ones, and process the status of customer orders.
 This is a **fullstack** application where the frontend was built with **Angular > 15**, and the backend was developed with **Spring Boot (Java)** and **MySQL**.
-
-**<ins>Note</ins>**: to execute a payment in test mode, please use this test card number: 4242424242424242 (for more informations please check the Stripe docs: https://docs.stripe.com/checkout/quickstart).
 
 **<ins>Note</ins>**: the backend code and some Angular business logic are private, but if you like the project and are interested in helping me maintaining it and building new features, please feel free to contact me so that we can have a chat about it.
 
